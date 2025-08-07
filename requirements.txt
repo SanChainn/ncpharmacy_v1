@@ -1,7 +1,7 @@
-asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1733215607532/work
+asgiref==3.8.1
 dj-database-url==3.0.1
-Django @ file:///home/conda/feedstock_root/build_artifacts/django_1749571466758/work
-et_xmlfile==2.0.0
+Django==5.0.4
+et_xmlfile==1.1.0
 gunicorn==23.0.0
 numpy==2.3.1
 openpyxl==3.1.5
@@ -11,7 +11,7 @@ psycopg2-binary==2.9.10
 python-dateutil==2.9.0.post0
 pytz==2025.2
 six==1.17.0
-sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1734007102193/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1748959427/work
+sqlparse==0.5.0
+typing_extensions==4.11.0
 tzdata==2025.2
 whitenoise==6.9.0
