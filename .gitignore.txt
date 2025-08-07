@@ -1,6 +1,9 @@
 # Ignore database file
 db.sqlite3
 
+
+env/
+
 # Ignore Python bytecode
 __pycache__/
 *.pyc
